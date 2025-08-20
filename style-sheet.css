@@ -50,23 +50,10 @@ aside {
   background-color: rgb(186, 224, 255);
 }
 
-.article {
-  margin: 40px;
-  padding: 20px 20px 20px 20px;
-  background-color: lightgray;
-}
 
-.article > h1, .article {
+
+.article  {
   margin: 10px;
-  padding: 20px 20px 20px 20px;
+  padding: 15px 15px 15px 15px;
   position: center;
-}
-
-.article {
-  background: white;
-}
-
-.article > h2, p {
-  margin: 4px;
-  font-size: 90%;
 }
