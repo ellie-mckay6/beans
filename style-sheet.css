@@ -41,10 +41,13 @@ aside {
 aside .right {
   width: 20%;
   padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   margin-left: 15px;
   float: right;
   font-style: italic;
-  background-color: lightgray;
+  background-color: rgb(186, 224, 255);
 }
 
 .article {
