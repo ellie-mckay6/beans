@@ -59,6 +59,7 @@ aside {
 .article > h1, .article {
   margin: 10px;
   padding: 20px 20px 20px 20px;
+  position: center;
 }
 
 .article {
