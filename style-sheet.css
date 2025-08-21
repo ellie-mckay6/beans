@@ -53,8 +53,7 @@ aside {
 
 
 .article  {
-  margin: 20px;
-  padding: 15px;
+    margin-left: auto;
   position: center;
 }
 
