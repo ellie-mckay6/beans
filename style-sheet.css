@@ -53,11 +53,9 @@ aside {
 
 
 .article  {
-  margin: 10px auto;
+  margin: 100px;
   padding-left: 15px;
   padding-right: 15px;
-  padding-top: 15px;
-  padding-bottom: 15px;
   position: center;
 }
 
