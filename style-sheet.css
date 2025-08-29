@@ -88,9 +88,9 @@ aside {
 
 
 .box {
-  display: flex center;
+  display: flex ;
   flex-direction: column;
-  justify-content: right;
+  justify-content: left;
   width: 20%;
   padding-left: 15px;
   padding-right: 15px;
