@@ -85,3 +85,16 @@ aside {
   border-radius: 200px;
   padding: 5px;
 }
+
+
+.box {
+  width: 20%;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 15px;
+  float: left;
+  font-style: italic;
+  background-color: lightgray;
+}
