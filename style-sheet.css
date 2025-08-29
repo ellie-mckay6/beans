@@ -26,7 +26,12 @@
   color: white;
 }
 
-
+p {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
 aside {
   width: 20%;
   padding-left: 15px;
