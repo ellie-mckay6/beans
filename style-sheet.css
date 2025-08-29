@@ -78,3 +78,9 @@ aside {
   justify-content: space-between;
   gap: 20px;
 }
+
+.border {
+
+  border: 2px solid red;
+  border-radius: 5px;
+}
