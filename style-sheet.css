@@ -88,6 +88,8 @@ aside {
 
 
 .box {
+  display: flex;
+  justify-content: space-between;
   width: 20%;
   padding-left: 15px;
   padding-right: 15px;
