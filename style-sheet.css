@@ -97,4 +97,5 @@ aside {
   float: left;
   font-style: italic;
   background-color: lightgray;
+  border-radius: 20px;
 }
