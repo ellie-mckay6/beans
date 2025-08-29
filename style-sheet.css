@@ -38,7 +38,8 @@ aside {
   font-style: italic;
   background-color: lightgray;
 }
-.right {
+
+/* .right {
   width: 20%;
   padding-left: 15px;
   padding-right: 15px;
@@ -48,16 +49,27 @@ aside {
   float: right;
   font-style: italic;
   background-color: rgb(186, 224, 255);
-}
+} */
 
 
 
-.article  {
-    margin-left: 50px;
-    float: center;
+.article {
+  margin-left: 50px;
+  float: center;
 }
 
 .hadr {
-    margin: 200px;
-    float: center;
+  margin: 200px;
+  float: center;
+}
+
+.cnt-hd {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
 }
